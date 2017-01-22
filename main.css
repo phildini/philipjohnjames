@@ -1,0 +1,8 @@
+.hero {
+    background-image: url('../img/pjj_hero_background.jpg');
+    background-size: 100%;
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position:center;
+    color: white;
+}
